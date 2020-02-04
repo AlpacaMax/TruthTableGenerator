@@ -10,6 +10,7 @@ python3 truthTableGen.py
 ```
 
 Here I'm gonna use this truth table as an example.
+
 ![Sample Choose table](truthTable.png)
 
 First, it will ask you to enter all the boolean variables. Remember to separate them with spaces:
